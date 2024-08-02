@@ -62,11 +62,10 @@
 - **Start date (Maria):** Monday August 19th.
 
 ## Digital Content and branding material (Maria)
-*$150-weekly cost, paid by e-transfer*
+*$350-weekly cost, paid by e-transfer*
 
-- **Management of instragram/linkedin**
-- **Management of Google Business**
-- **Management of live chat on website:** Relay messages/bookings to Tahir
+- **Management of instragram/linkedin**: 2-weekly posts
+- **Management of Google Business**: Management of account and SEO
 
 
   
