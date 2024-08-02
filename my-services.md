@@ -8,6 +8,7 @@
 1. Meet industry standards and regulations set by IFRS, CPAB or any other regulatory institution regarding cryptocurrencies.
 
 **Verification of transactions**
+
 2. Assurance of settlement of cryptocurrency transactions on the blockchain.
 3. Match data provided by client (i.e. csv dumps), with a focus on server time, transaction hash, amount transacted, cryptocurrency type, destination address and a hyperlink to their respective block explorer.
 4. Determine the status of the transactions as 'Verified' or 'Invalid'.
