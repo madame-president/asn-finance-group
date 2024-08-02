@@ -13,7 +13,7 @@
 3. Match data provided by client (i.e. csv dumps), with a focus on server time, transaction hash, amount transacted, cryptocurrency type, destination address and a hyperlink to their respective block explorer.
 4. Determine the status of the transactions as 'Verified' or 'Invalid'.
 
-**Custom cryptocurrency dashboards**
+**Custom cryptocurrency bookkeeping**
 
 5. Organization of data clumps in an accounting-friendly manner
 6. Labelling of transactions as incoming or outgoing (*while this seems trivial, this actually requires a high level of technical expertise. The bitcoin network, for example, does NOT assign transactions as sent or received.*)
